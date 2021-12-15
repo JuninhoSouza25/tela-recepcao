@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.tela {
+    background-image: url(../img/bg.png);
+    height: 100vh;
+}
+
+.moldura {
+    background-color: white;
+    margin: auto;
+    width: 85vw;
+    height: 85vh;
+    border: 5px solid gray;
+    border-radius: 15px;
+}
+
+.logo {
+    margin: 10px auto;
+    width: auto;
+}
+
+.content {
+    height: 60vh;
+    margin: auto;
+}
+
+.principal {
+    color: gray;
+    font-size: 4.5em;
+}
