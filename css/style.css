@@ -30,6 +30,13 @@ body {
 }
 
 .principal {
-    color: gray;
-    font-size: 4.5em;
+    color: grey;
+    font-size: 4em;
+}
+
+.segundo {
+    color: grey;
+    font-size: 1em;
+    margin-top: 10px;
+    margin-bottom: 40px;
 }
