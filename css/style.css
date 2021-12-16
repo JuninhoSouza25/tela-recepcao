@@ -25,7 +25,7 @@ body {
 }
 
 .content {
-    height: 60vh;
+    height: 75vh;
     margin: auto;
 }
 
@@ -39,4 +39,9 @@ body {
     font-size: 1em;
     margin-top: 10px;
     margin-bottom: 40px;
+}
+
+.container {
+    width: 700px;
+    margin: auto;
 }
