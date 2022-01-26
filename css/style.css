@@ -30,6 +30,7 @@ body {
 }
 
 .principal {
+    margin-top: 300px;
     color: grey;
     font-size: 4em;
 }
