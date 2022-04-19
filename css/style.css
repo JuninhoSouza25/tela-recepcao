@@ -50,6 +50,10 @@ body {
     margin: 50px auto;
 }
 
+.container img {
+    width: 450px;
+}
+
 .container-content {
     width: 100%;
 }
