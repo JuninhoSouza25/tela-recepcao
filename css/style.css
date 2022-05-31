@@ -46,14 +46,11 @@ body {
 .container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 900px;
     margin: 50px auto;
 }
 
-.container img {
-    width: 450px;
-}
 
 .container-content {
     width: 100%;
